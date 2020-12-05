@@ -14,5 +14,5 @@ My {website|portfolio site} {including|and|with linked|along with my} resume: ht
 |
 Hi %name%,
 
-I was {happy|glad|enthusiastic} to see that %companyName% is {seeking|looking for|hiring|recruiting} {new| } web developers. Can you {refer|send|pass} me to the {hiring {person|staff|manager}|recruiter|{staff{person|member| }|person}? My resume and {website|portfolio{ | site}}: https://bit.ly/39KShBj
+I was {happy|glad|enthusiastic} to see that %companyName% is {seeking|looking for|hiring|recruiting} {new| } web developers. Can you {refer|send|pass} me to the {hiring {person|staff|manager}|recruiter|{staff{person|member| }|right {person|individual|team member|person in charge}}}? My resume and {website|portfolio{ | site}}: https://bit.ly/39KShBj
 }
