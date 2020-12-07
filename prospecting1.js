@@ -1,3 +1,12 @@
+// SUBJECT SPINTAX (copy it all into the subject field)
+
+{%firstName%, | }{Saw a a developer job post at %companyName%|Can you {refer|forward} {me|my details| my info}?|Regarding job post at %companyName%|Seeking the hiring person|Not sure who to contact|Seeking referral|Question|Need help|Who is the right person|Looking for {hiring {person|manager}|recruiter}}
+
+
+
+
+// MESSAGE SPINTAX (copy it all into the message body area)
+
 {
 Hi %firstName%, I saw that %companyName% has {an opening| a new position} for a web developer. Can you {pass|send|relay} my information to the {hiring {person|manager}|recruiter}? My {website|portfolio site} {including|and|with linked|along with my} resume: 
 
