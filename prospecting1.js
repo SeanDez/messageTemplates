@@ -1,6 +1,6 @@
 // SUBJECT SPINTAX (copy it all into the subject field)
 
-{%firstName%, | }{Saw a a developer job post at %companyName%|Can you {refer|forward} {me|my details| my info}?|Regarding job post at %companyName%|Seeking the hiring person|Not sure who to contact|Seeking referral|Question|Need help|Who is the right person|Looking for {hiring {person|manager}|recruiter}}
+{%firstName%, | }{Saw a a developer job post at %companyName%|Can you {refer|forward} {me|my details| my info}?|Regarding job post at %companyName%|Seeking the hiring person|Saw you on Linkedin, {about the recent job {post|posting}|reaching out|can you point me to the right person?}|Not sure who to contact|Question|Need help|Who is the right person|Looking for {hiring {person|manager}|recruiter}}
 
 
 
